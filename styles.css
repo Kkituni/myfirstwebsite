@@ -1,0 +1,23 @@
+body{
+  background-color: green
+}
+h1 {
+  color: black;
+  text-align: center;
+  font-style: normal;
+}
+
+h2 {
+  color: orange;
+  font-style:normal;
+}
+p
+ {
+  color: purple;
+  text-align:justify;
+}
+ol{
+  font-style: normal;
+  font-family: serif;
+  line-height: 40px;
+}
